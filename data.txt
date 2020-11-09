@@ -1,0 +1,4 @@
+- path: tomato-2d
+  name: tomato-2d
+  description: A 2D dataset
+  type: default
