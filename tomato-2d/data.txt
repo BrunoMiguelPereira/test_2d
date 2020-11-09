@@ -1,3 +1,0 @@
-path: https://github.com/BrunoMiguelPereira/test_2d/releases/download/tomato-2d-cbcf680/data.rds
-description: A 2D dataset
-type: default
